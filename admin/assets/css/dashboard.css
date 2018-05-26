@@ -1,0 +1,79 @@
+section {
+	width: 100%;
+	display: block;
+}
+div.bubble {
+	float: left;
+	position: relative;
+}
+div.bubble label {
+	position: absolute;
+	top: 30%;
+	left: 12%;
+	font-size: 14px;
+	font-weight: bold;
+    letter-spacing: -0.4pt;
+}
+div.bubble span {
+	position: absolute;
+	top: 18%;
+	left: 12%;
+	font-size: 9px !important;	
+}
+div.bubble .lerror {
+	background: url('../../assets/img/bkg_bot-red_left.png'); 
+	width: 39px; 
+	height: 85px; 
+	float: left; 
+}
+div.bubble .cerror {
+	background: url('../../assets/img/bkg_bot-red.png'); 
+	min-width: 100px; 
+	height: 85px; 
+	float: left;
+	color: black;
+}
+div.bubble .rerror {
+	background: url('../../assets/img/bkg_bot-red_right.png'); 
+	width: 39px; 
+	height: 85px; 
+	float: left; 
+}
+div.bubble .lwarning {
+	background: url('../../assets/img/bkg_bot-yellow_left.png'); 
+	width: 39px; 
+	height: 85px; 
+	float: left; 
+}
+div.bubble .cwarning {
+	background: url('../../assets/img/bkg_bot-yellow.png'); 
+	min-width: 100px; 
+	height: 85px; 
+	float: left;
+	color: black;
+}
+div.bubble .rwarning {
+	background: url('../../assets/img/bkg_bot-yellow_right.png'); 
+	width: 39px; 
+	height: 85px; 
+	float: left; 
+}
+div.bubble .lok {
+	background: url('../../assets/img/bkg_bot-green_left.png'); 
+	width: 39px; 
+	height: 85px; 
+	float: left; 
+}
+div.bubble .cok {
+	background: url('../../assets/img/bkg_bot-green.png'); 
+	min-width: 100px; 
+	height: 85px; 
+	float: left;
+	color: black;
+}
+div.bubble .rok {
+	background: url('../../assets/img/bkg_bot-green_right.png'); 
+	width: 39px; 
+	height: 85px; 
+	float: left; 
+}
