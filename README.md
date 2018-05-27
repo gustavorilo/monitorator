@@ -7,7 +7,7 @@
 
 Es un sistema de monitoreo por el medio del cual se pueden realizar GET / PING / CURL / TEXT IN PAGE / OTROS.
 
-<img src="./readme_files/monitorator-dashboard.png" border="0" alt="" />
+<img src="./readme_files/monitorator-dashboard.png" border="0" alt="" /><br/>
 
 <img src="./readme_files/monitorator-entities.png" border="0" alt="" />
 
