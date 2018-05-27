@@ -16,6 +16,8 @@ Es un sistema de monitoreo por el medio del cual se pueden realizar GET / PING /
 Se requiere Apache + PHP + MySQL (se incluye archivo SQL - structura y datos en la folder DB)
 
 ---------------------------------------------------
-Desarrollado: 2017
-Contacto: gustavorilo@yahoo.com.ar / gustavo.rilo@gmail.com
+
+Desarrollado en 2017.
+Contacto: gustavo.rilo@gmail.com
+
 ---------------------------------------------------
