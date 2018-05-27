@@ -1,3 +1,21 @@
-# monitorator
-Sistema de monitoreo (Permite realizar GET / PING / CURL / TEXT IN PAGE / OTROS).
-DB (se incluye archivo SQL - structura y datos)
+
+---------------------------------------------------
+## MONITORATOR
+---------------------------------------------------
+
+<b>Qué es y para que sirve Monitorator</b>
+
+Es un sistema de monitoreo por el medio del cual se pueden realizar GET / PING / CURL / TEXT IN PAGE / OTROS.
+
+<img src="./readme_files/monitorator-dashboard.png" border="0" alt="" />
+
+<img src="./readme_files/monitorator-entities.png" border="0" alt="" />
+
+<b>Requerimientos para su funcionamiento</b>
+
+Se requiere Apache + PHP + MySQL (se incluye archivo SQL - structura y datos en la folder DB)
+
+---------------------------------------------------
+Desarrollado: 2017
+Contacto: gustavorilo@yahoo.com.ar / gustavo.rilo@gmail.com
+---------------------------------------------------
