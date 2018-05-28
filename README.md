@@ -16,10 +16,10 @@ Es un sistema de monitoreo por el medio del cual se pueden realizar GET / PING /
 Se requiere Apache + PHP + MySQL (se incluye archivo SQL - structura y datos en la folder DB)
 El código se lo ha probado sobre PHP Version 5.3.24 y MySQL 5.5
 
-*<b>IMPORTANTE:</b> 
+<b>IMPORTANTE:</b> 
 Se necesita utilizar un cron para llamar al archivo cron.php (recomendamos que el cron se ejecute cada 5 minutos, todos los días, todo el año; de todas maneras esto es en base a necesidad). Ejemplo de nuestra sugerencia:
 
-<b>*\*/5 * * * * php /var/www/html/monitorator/admin/cron.php</b>*
+<b>*\*/5 * * * * php /var/www/html/monitorator/admin/cron.php</b>
 
 
 
