@@ -8,10 +8,10 @@
 	switch($_SERVER['HTTP_HOST']) {
  
 		default:
-  		    $dbhost = 'YOU_SERVER_HOST';
+  		    $dbhost = 'YOU_HOST';
             $dbname = 'monitorator';
-            $dbuser = 'YOU_DB_USERNAME';
-	        $dbpass = 'YOU_DB_PASS';
+            $dbuser = 'monitorator';
+	        $dbpass = 'YOU_PASS';
       break;
   }
 
