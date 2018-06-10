@@ -56,7 +56,7 @@
 				$sql      = "INSERT INTO entities ";
 				$sql     .= "(idClient, entity, state) ";
 				$sql     .= "VALUES ";
-				$sql     .= "(".$_SESSION['idClient'].", '".$entity."', 1) ";
+				$sql     .= "(".$_SESSION['user']['idClient'].", '".$entity."', 1) ";
 		
 				$query    = $this->myquery($sql);
 				
